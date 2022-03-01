@@ -29,6 +29,7 @@
 #include <string>
 #include <vector>
 
+#define NO_EXCEPTIONS true
 
 namespace qrcodegen {
 
